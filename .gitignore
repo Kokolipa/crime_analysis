@@ -1,0 +1,11 @@
+# ! Ignore DS_Store
+.DS_Store
+# ! Ignore keys 
+geoapify_key = "3c2cb19088c146bda225e51cf9d5c2c8"
+
+# !  Ignore files
+config.py
+
+# ! Ignore datasets
+Datasets_1
+Datasets_2
