@@ -10,7 +10,3 @@ crime_cleaned.csv
 # ! Ignore datasets
 Datasets_1
 Datasets_2
-
-# ! Ignore zips
-filtered_1.zip
-filtered_2.zip
