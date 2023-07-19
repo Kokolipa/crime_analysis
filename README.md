@@ -41,9 +41,9 @@ This is a group project that included a creation of a workflow in GitHub to coll
 #### TLDR - Conclusions
 ##### Crime Destribution - Key Takeaways
 1. 
-##### Crime Types - Key Takeaways**
+##### Crime Types - Key Takeaways
 1. 
-##### Holiday Seasons - Key Takeaways**
+##### Holiday Seasons - Key Takeaways
 1. Inclusive offences that didn’t end up with an arrest:
     1. In general, the COVID-19 period distributed more crime during the “holiday season” than before and post-COVID-19 holiday seasons. 
         1. During COVID-19, Independence Day had the most significant amount of offences; This may as a direct result the George Floyd’s death and the protesting of “black lives matter”.
@@ -71,7 +71,7 @@ This is a group project that included a creation of a workflow in GitHub to coll
 1. For narcotic related offences there was a higher percentage of narcotic crimes for the pre-Covid period, in comparison to the during and post-Covid period. This can be linked to the legalisation of cannabis in Illinois, where commencing January 1, 2020 and during the pre-Covid era, adults over the age of 21 became legally able to possess, consume and purchase cannabis.
 [Source](https://www.chicago.gov/city/en/sites/cannabis-information-center/home/social-consumption.html#:~:text=Pursuant%20to%20state%20law%2C%20adults,discretion%20of%20the%20property%20owner.)
 2. There was a spike in motor vehicle theft for the post-Covid period. This can be attributable to the virus' impact on the supply of new cars in the motor vehicle industry due to the Covid lockdowns which caused consumer demand for new cars to surpass supply and hence creating a shortage in the supply of new cars and a spike in prices. This has also had a flow on effect on the second hand market for cars, where the supply of used vehicles cannot keep up with the demand, causing prices to increase even during the post-Covid period. As such higher car prices has made both new and second-hand cars less affordable, leading to an increase in motor vehicle theft for the post-Covid period
-(Source: https://www.chicagotribune.com/coronavirus/ct-coronavirus-chicago-auto-industry-inventory-new-cars-20201002-hbxvy3qf65espn5q4zxaevs754-story.html)
+[Source](https://www.chicagotribune.com/coronavirus/ct-coronavirus-chicago-auto-industry-inventory-new-cars-20201002-hbxvy3qf65espn5q4zxaevs754-story.html)
 [Source](https://www.chicagotribune.com/business/ct-biz-used-car-prices-20230330-chd5cfaq2jcqzk2hnqzl4fkzca-story.html)
 3. Other than for narcotic and motor vehicle theft offences, Covid has not had a significant impact on how prolific a type of crime is in Chicago
 
