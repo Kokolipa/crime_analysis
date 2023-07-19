@@ -80,7 +80,20 @@ This is a group project that included a creation of a workflow in GitHub to coll
 │   |   |   ├── Top5_locations.png
 │   |   |   ├── top10_community_area.png
 │   |   |   ├── crime_t_holiday_seasons.png
-│   |   ├── Analysis_Question3.ipynb
+│   ├── Geography_Analysis  # This folder include the analysis of Question 1 & 4 and the charts images
+│   |   ├── .ipynb_checkpoints
+│   |   |   ├── geography_analysis_1-checkpoint.ipynb
+│   |   ├── Output Graphs
+│   |   |   ├── 6-Month Period, Destrict 1.png
+│   |   |   ├── 6-Month Period, Destrict 11.png
+│   |   |   ├── 6-Month Period, Destrict 12.png
+│   |   |   ├── 6-Month Period, Destrict 22.png
+│   |   |   ├── 6-Month Period, Destrict 4.png
+│   |   |   ├── 6-Month Period, Destrict 6.png
+│   |   |   ├── 6-Month Period, Destrict 7.png
+│   |   |   ├── Crime Rate, Jan - June 2019.png
+│   |   |   ├── Crime Rate, Jan - June 2023.png
+│   |   ├── geography_analysis_1.ipynb
 │   ├── filtered_1.zip     # These are the two zip files to extract & append the clean dataset. 
 │   ├── filtered_2.zip
 │   ├── .gitignore            
