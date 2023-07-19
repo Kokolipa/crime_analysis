@@ -3,6 +3,9 @@
 
 # !  Ignore files
 config.py
+config_evangeline.py
+
+# ! Ignore CSVs
 crime_cleaned.csv
 filtered_cata_1.csv
 filtered_cata_2.csv
@@ -13,12 +16,10 @@ filtered_cata_5.csv
 # ! Ignore datasets
 Datasets_1
 Datasets_2
-
 CSVs1
-
 CSVs
 
 
 # ! Ignore 
-
+__pycache__
 holiday_seasons
