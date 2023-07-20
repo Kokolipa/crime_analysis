@@ -1,5 +1,7 @@
+[![Presentation](https://img.shields.io/badge/presentation-black?style=flat&logo=codereview)](https://docs.google.com/presentation/d/1pr2idPw0FhrQEDkaH_G73F3HYGTGXzfvvWhR5GCq2so/edit?usp=sharing)
+
 # Crime Analysis
-[![Presentation](https://img.shields.io/badge/presentation-blue?style=flat-square&logo=GitHub)](https://docs.google.com/presentation/d/1pr2idPw0FhrQEDkaH_G73F3HYGTGXzfvvWhR5GCq2so/edit?usp=sharing)
+
 ### Project description:
 This is a group project that included a creation of a workflow in GitHub to collaborate on an observetional study of crime in the city of Chicago, Illinois. The purpose of the analysis and the main reaseach question was **"how did COVID-19 impact crime in Chicago?"** To conclude on this question, the following sub-questions were analysed: 
 1. Did covid impact the distribution of crime in Chicago?
