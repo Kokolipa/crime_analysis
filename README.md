@@ -38,12 +38,13 @@ This is a group project that included a creation of a workflow in GitHub to coll
 * Chicago Data Portal
 
 
-#### TLDR - Conclusions
-##### Crime Destribution - Key Takeaways
-1. 
-##### Crime Types - Key Takeaways
-1. 
-##### Holiday Seasons - Key Takeaways
+### TLDR - Conclusions
+#### Crime Destribution & Crime Types - Key Takeaways
+1. In some Police Districts crime has fallen post-covid, including districts 1, 6, 11 and 18. Whereas in others it has risen, including districts 2, 4, and 12. Thus we can conclude that the distribution of crime within Chicago has changed.
+2. Comparing the crime rates in Jan - June 2019 and 2023 with the locations of the police buildings, there is no visible reduction of crime rates in areas where there is a higher concentration of Police buildings (such as the CBD), and also no visible increase of crime rates in areas where there are no Police Buildings (such as South Chicago).
+3. While we can say with confidence that crime has been redistributed across the Police Districts of Chicago when comparing 2019 to 2023, we cannot assume any correlation between the COVID-19 pandemic and this redistribution of crime rates. We also cannot conclude that the location of Police buildings has affect where crime was redistributed to.
+
+#### Holiday Seasons - Key Takeaways
 1. Inclusive offences that didn’t end up with an arrest:
     1. In general, the COVID-19 period distributed more crime during the “holiday season” than before and post-COVID-19 holiday seasons. 
         1. During COVID-19, Independence Day had the most significant amount of offences; This may as a direct result the George Floyd’s death and the protesting of “black lives matter”.
@@ -61,13 +62,13 @@ This is a group project that included a creation of a workflow in GitHub to coll
     1. The amount of incidents has decreased between 2022-2023 (it might be because the year 2023 is yet to be concluded)
     2. In most crime types, there was a steep increase in crime incidents between 2020-2021.
     3. If there wasn't a steep increase, it is likely because these crime types rely on outdoor elements, which lockdown restricted. 
-##### Domestic Crime - Key Takeaways
+#### Domestic Crime - Key Takeaways
 1. Stay at home and social distancing provisions, which were imposed by the state government on 21 March 2020 led to a higher percentage of domestic related offences during the Covid period, in comparison to the pre and post Covid periods [Source](https://www.illinois.gov/news/press-release.21288.html#:~:text=The%20order%20takes%20effect%205,of%20more%20than%2010%20people.)
 2. Most domestic offences occur at a residence or apartment location  i.e. private dwellings, and less so in public areas such as streets and sidewalks
 3. The rate of domestic offences for residence locations has decreased from pre-Covid to post-Covid, while an opposite trend can be observed for apartment locations. This can be attributable to Covid's detrimental impact to housing affordability in Chicago driven by job losses. [Source](https://chicago.suntimes.com/2020/4/27/21238379/covid-19-affordable-housing-chicago-rent-marisa-novara-op-ed)
  Increasing trend in domestic offences in apartments from pre to post Covid may be linked to victims feeling more comfortable to seek help after the easing of government imposed restrictions following the pandemic, and due to build up of tensions in domestic relationships during the Covid period
  [Source](https://wgntv.com/news/cover-story/shadow-pandemic-of-gender-based-violence-spurs-action-in-chicago/)
-##### Prolific Crimes:
+#### Prolific Crimes:
 1. For narcotic related offences there was a higher percentage of narcotic crimes for the pre-Covid period, in comparison to the during and post-Covid period. This can be linked to the legalisation of cannabis in Illinois, where commencing January 1, 2020 and during the pre-Covid era, adults over the age of 21 became legally able to possess, consume and purchase cannabis.
 [Source](https://www.chicago.gov/city/en/sites/cannabis-information-center/home/social-consumption.html#:~:text=Pursuant%20to%20state%20law%2C%20adults,discretion%20of%20the%20property%20owner.)
 2. There was a spike in motor vehicle theft for the post-Covid period. This can be attributable to the virus' impact on the supply of new cars in the motor vehicle industry due to the Covid lockdowns which caused consumer demand for new cars to surpass supply and hence creating a shortage in the supply of new cars and a spike in prices. This has also had a flow on effect on the second hand market for cars, where the supply of used vehicles cannot keep up with the demand, causing prices to increase even during the post-Covid period. As such higher car prices has made both new and second-hand cars less affordable, leading to an increase in motor vehicle theft for the post-Covid period
