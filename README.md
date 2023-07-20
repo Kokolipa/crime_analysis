@@ -1,4 +1,4 @@
-[![Presentation](https://img.shields.io/badge/Presentation-red?style=flat&logo=codereview)](https://docs.google.com/presentation/d/1pr2idPw0FhrQEDkaH_G73F3HYGTGXzfvvWhR5GCq2so/edit?usp=sharing)
+
 
 # Crime Analysis
 
@@ -40,7 +40,7 @@ This is a group project that included a creation of a workflow in GitHub to coll
 * Chicago Data Portal
 
 
-### TLDR - Conclusions
+### TLDR - Conclusions [![Presentation](https://img.shields.io/badge/Presentation-red?style=flat&logo=codereview)](https://docs.google.com/presentation/d/1pr2idPw0FhrQEDkaH_G73F3HYGTGXzfvvWhR5GCq2so/edit?usp=sharing)
 #### Crime Destribution & Crime Types - Key Takeaways
 1. In some Police Districts crime has fallen post-covid, including districts 1, 6, 11 and 18. Whereas in others it has risen, including districts 2, 4, and 12. Thus we can conclude that the distribution of crime within Chicago has changed.
 2. Comparing the crime rates in Jan - June 2019 and 2023 with the locations of the police buildings, there is no visible reduction of crime rates in areas where there is a higher concentration of Police buildings (such as the CBD), and also no visible increase of crime rates in areas where there are no Police Buildings (such as South Chicago).
